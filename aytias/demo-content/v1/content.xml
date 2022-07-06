@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0" created="2022-07-06 11:05" -->
+	<!-- generator="WordPress/6.0" created="2022-07-06 19:54" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Aytias</title>
 	<link>https://preview.unfoldwp.com/aytias</link>
 	<description>Just another Wordpress site</description>
-	<pubDate>Wed, 06 Jul 2022 11:05:01 +0000</pubDate>
+	<pubDate>Wed, 06 Jul 2022 19:54:52 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://preview.unfoldwp.com/</wp:base_site_url>
