@@ -14,23 +14,7 @@
             "demo_content": {
                 "v1": {
                     "name": "V1 - Default",
-                    "preview_url": "https://preview.unfoldwp.com/aytias/",
-                    "menus": {
-                        "top-menu": "top-menu",
-                        "primary-menu": "primary-menu",
-                        "social-menu": "social-menu",
-                        "footer-menu": "footer-menu"
-                    }
-                },
-                "v2": {
-                    "name": "V2 - Fashion",
-                    "preview_url": "https://preview.unfoldwp.com/aytias/fashion",
-                    "menus": {
-                        "top-menu": "top-menu",
-                        "primary-menu": "primary-menu",
-                        "social-menu": "social-menu",
-                        "footer-menu": "footer-menu"
-                    }
+                    "preview_url": "https://preview.unfoldwp.com/aytias/"
                 }
             }
         },
@@ -38,13 +22,7 @@
             "demo_content": {
                 "v1": {
                     "name": "V1 - Default",
-                    "preview_url": "https://preview.unfoldwp.com/blogtory/",
-                    "menus": {
-                        "top-menu": "top-menu",
-                        "primary-menu": "primary-menu",
-                        "social-menu": "social-menu",
-                        "footer-menu": "footer-menu"
-                    }
+                    "preview_url": "https://preview.unfoldwp.com/blogtory/"
                 }
             }
         }
