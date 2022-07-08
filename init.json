@@ -1,13 +1,7 @@
 {
     "themes": [
         "aytias",
-        "blogtory",
-        "blog-elite",
-        "eximious-magazine",
-        "shop-elite",
-        "magazine-saga",
-        "magazine-elite",
-        "xmas-lite"
+        "blogtory"
     ],
     "config": {
         "aytias": {
