@@ -1,7 +1,8 @@
 {
     "themes": [
         "aytias",
-        "blogtory"
+        "blogtory",
+        "blog_elite"
     ],
     "config": {
         "aytias": {
@@ -17,6 +18,22 @@
                 "v1": {
                     "name": "V1 - Default",
                     "preview_url": "https://preview.unfoldwp.com/blogtory/"
+                }
+            }
+        },
+        "blog_elite": {
+            "demo_content": {
+                "v1": {
+                    "name": "V1 - Default",
+                    "preview_url": "https://demos.unfoldwp.com/blog-elite/"
+                },
+                "v2": {
+                    "name": "V2 - Nature",
+                    "preview_url": "https://demos.unfoldwp.com/blog-elite/v2/"
+                },
+                "v3": {
+                    "name": "V3 - Sports",
+                    "preview_url": "https://demos.unfoldwp.com/blog-elite/v3/"
                 }
             }
         }
