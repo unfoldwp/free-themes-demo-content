@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.1" created="2022-08-09 11:53" -->
+	<!-- generator="WordPress/6.0.1" created="2022-08-10 07:40" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Blog Elite</title>
 	<link>https://demos.unfoldwp.com/blog-elite/v3</link>
 	<description>Awesome Multipurpose Blog Theme</description>
-	<pubDate>Tue, 09 Aug 2022 11:53:19 +0000</pubDate>
+	<pubDate>Wed, 10 Aug 2022 07:40:43 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.unfoldwp.com/blog-elite/</wp:base_site_url>
@@ -656,67 +656,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Pages]]></title>
-		<link>https://demos.unfoldwp.com/blog-elite/v3/pages/</link>
-		<pubDate>Sun, 16 Dec 2018 06:04:17 +0000</pubDate>
-		<dc:creator><![CDATA[unfoldwp@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demos.unfoldwp.com/blog-elite/v3/?p=282</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>282</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 08:33:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-12-16 06:04:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 08:33:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 08:33:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pages]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>9</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[282]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-12-16]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[pexels-matheus-bertelli-573299]]></title>
 		<link>https://demos.unfoldwp.com/blog-elite/v3/fireflies-photography/pexels-matheus-bertelli-573299/</link>
 		<pubDate>Mon, 01 Feb 2021 08:11:36 +0000</pubDate>
@@ -1089,6 +1028,39 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:76:"2021/02/car-automobile-volkswagen-van-transport-vehicle-3713-pxhere.com_.jpg";s:5:"sizes";a:7:{s:6:"medium";a:4:{s:4:"file";s:76:"car-automobile-volkswagen-van-transport-vehicle-3713-pxhere.com_-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:77:"car-automobile-volkswagen-van-transport-vehicle-3713-pxhere.com_-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:76:"car-automobile-volkswagen-van-transport-vehicle-3713-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:76:"car-automobile-volkswagen-van-transport-vehicle-3713-pxhere.com_-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";}s:22:"blog-elite-slide-boxed";a:4:{s:4:"file";s:77:"car-automobile-volkswagen-van-transport-vehicle-3713-pxhere.com_-1170x600.jpg";s:5:"width";i:1170;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:24:"blog-elite-carousel-full";a:4:{s:4:"file";s:76:"car-automobile-volkswagen-van-transport-vehicle-3713-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";}s:25:"blog-elite-carousel-boxed";a:4:{s:4:"file";s:76:"car-automobile-volkswagen-van-transport-vehicle-3713-pxhere.com_-580x400.jpg";s:5:"width";i:580;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[BANNER]]></title>
+		<link>https://demos.unfoldwp.com/blog-elite/v3/banner/</link>
+		<pubDate>Wed, 10 Aug 2022 07:37:36 +0000</pubDate>
+		<dc:creator><![CDATA[unfoldwp@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.unfoldwp.com/blog-elite/v3/wp-content/uploads/sites/3/2022/08/BANNER.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>329</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-10 07:37:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-10 07:37:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-10 07:37:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-10 07:37:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[banner]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demos.unfoldwp.com/blog-elite/v3/wp-content/uploads/sites/3/2022/08/BANNER.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/BANNER.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:728;s:6:"height";i:90;s:4:"file";s:18:"2022/08/BANNER.png";s:8:"filesize";i:59256;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:17:"BANNER-300x37.png";s:5:"width";i:300;s:6:"height";i:37;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14871;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"BANNER-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9118;}s:25:"blog-elite-carousel-boxed";a:5:{s:4:"file";s:17:"BANNER-580x90.png";s:5:"width";i:580;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:53501;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1540,7 +1512,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Home page]]></title>
+		<title><![CDATA[Homepage]]></title>
 		<link>https://demos.unfoldwp.com/blog-elite/v3/</link>
 		<pubDate>Mon, 19 Nov 2018 06:02:08 +0000</pubDate>
 		<dc:creator><![CDATA[unfoldwp@gmail.com]]></dc:creator>
@@ -1551,8 +1523,8 @@
 		<wp:post_id>79</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-19 06:02:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-19 06:02:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-11-19 06:02:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-11-19 06:02:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-08-10 07:23:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-10 07:23:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-page]]></wp:post_name>
@@ -1565,6 +1537,10 @@
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[page-templates/template-home.php]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2380,6 +2356,213 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Pages]]></title>
+		<link>https://demos.unfoldwp.com/blog-elite/v3/pages/</link>
+		<pubDate>Sun, 16 Dec 2018 06:04:17 +0000</pubDate>
+		<dc:creator><![CDATA[unfoldwp@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.unfoldwp.com/blog-elite/v3/?p=282</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>282</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-18 08:33:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-16 06:04:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-18 08:33:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-18 08:33:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pages]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>9</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[282]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-12-16]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Search Page]]></title>
+		<link>https://demos.unfoldwp.com/blog-elite/v3/search-page/</link>
+		<pubDate>Sun, 16 Dec 2018 06:04:17 +0000</pubDate>
+		<dc:creator><![CDATA[unfoldwp@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.unfoldwp.com/blog-elite/v3/?p=283</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>283</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-18 08:33:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-16 06:04:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-18 08:33:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-18 08:33:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[search-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>10</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[282]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[283]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.unfoldwp.com/blog-elite/v3/?s=rem]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-12-16]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[404 page]]></title>
+		<link>https://demos.unfoldwp.com/blog-elite/v3/404-page/</link>
+		<pubDate>Sun, 16 Dec 2018 06:04:17 +0000</pubDate>
+		<dc:creator><![CDATA[unfoldwp@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.unfoldwp.com/blog-elite/v3/?p=284</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>284</wp:post_id>
+		<wp:post_date><![CDATA[2021-03-18 08:33:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-16 06:04:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-03-18 08:33:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-03-18 08:33:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[404-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>11</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[282]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[284]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demos.unfoldwp.com/blog-elite/v3/404]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-12-16]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[WPForms Preview]]></title>
+		<link>https://demos.unfoldwp.com/blog-elite/v3/wpforms-preview/</link>
+		<pubDate>Wed, 21 Nov 2018 11:38:50 +0000</pubDate>
+		<dc:creator><![CDATA[unfoldwp@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.unfoldwp.com/blog-elite/v3/wpforms-preview/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>This is the WPForms preview page. All your form previews will be handled on this page.</p><p>The page is set to private, so it is not publicly accessible. Please do not delete this page :) .</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>285</wp:post_id>
+		<wp:post_date><![CDATA[2018-11-21 11:38:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-11-21 11:38:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-11-21 11:38:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-11-21 11:38:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wpforms-preview]]></wp:post_name>
+		<wp:status><![CDATA[private]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[What does it takes?]]></title>
 		<link>https://demos.unfoldwp.com/blog-elite/v3/what-does-it-takes/</link>
 		<pubDate>Wed, 21 Nov 2018 08:09:26 +0000</pubDate>
@@ -2548,152 +2731,6 @@
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Search Page]]></title>
-		<link>https://demos.unfoldwp.com/blog-elite/v3/search-page/</link>
-		<pubDate>Sun, 16 Dec 2018 06:04:17 +0000</pubDate>
-		<dc:creator><![CDATA[unfoldwp@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demos.unfoldwp.com/blog-elite/v3/?p=283</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>283</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 08:33:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-12-16 06:04:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 08:33:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 08:33:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[search-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[282]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[283]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demos.unfoldwp.com/blog-elite/v3/?s=rem]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-12-16]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[404 page]]></title>
-		<link>https://demos.unfoldwp.com/blog-elite/v3/404-page/</link>
-		<pubDate>Sun, 16 Dec 2018 06:04:17 +0000</pubDate>
-		<dc:creator><![CDATA[unfoldwp@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demos.unfoldwp.com/blog-elite/v3/?p=284</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>284</wp:post_id>
-		<wp:post_date><![CDATA[2021-03-18 08:33:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-12-16 06:04:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-03-18 08:33:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-03-18 08:33:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[404-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[282]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[284]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demos.unfoldwp.com/blog-elite/v3/404]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-12-16]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[WPForms Preview]]></title>
-		<link>https://demos.unfoldwp.com/blog-elite/v3/wpforms-preview/</link>
-		<pubDate>Wed, 21 Nov 2018 11:38:50 +0000</pubDate>
-		<dc:creator><![CDATA[unfoldwp@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://demos.unfoldwp.com/blog-elite/v3/wpforms-preview/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>This is the WPForms preview page. All your form previews will be handled on this page.</p><p>The page is set to private, so it is not publicly accessible. Please do not delete this page :) .</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>285</wp:post_id>
-		<wp:post_date><![CDATA[2018-11-21 11:38:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-11-21 11:38:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-11-21 11:38:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-11-21 11:38:50]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wpforms-preview]]></wp:post_name>
-		<wp:status><![CDATA[private]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
 					<item>
 		<title><![CDATA[Street Shopping redfined]]></title>
 		<link>https://demos.unfoldwp.com/blog-elite/v3/street-shopping-redfined/</link>
@@ -2882,6 +2919,31 @@
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://demos.unfoldwp.com/blog-elite/v3/wp-global-styles-blog-elite/</link>
+		<pubDate>Wed, 10 Aug 2022 07:23:48 +0000</pubDate>
+		<dc:creator><![CDATA[unfoldwp@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://demos.unfoldwp.com/blog-elite/v3/wp-global-styles-blog-elite/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>327</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-10 07:23:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-10 07:23:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-10 07:23:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-10 07:23:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-blog-elite]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="blog-elite"><![CDATA[blog-elite]]></category>
+						</item>
 				</channel>
 </rss>
 	
