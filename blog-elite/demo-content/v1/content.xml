@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.1" created="2022-08-16 10:45" -->
+	<!-- generator="WordPress/6.0.1" created="2022-08-24 08:26" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,14 +29,14 @@
 	<title>Blog Elite</title>
 	<link>https://demos.unfoldwp.com/blog-elite</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Tue, 16 Aug 2022 10:45:37 +0000</pubDate>
+	<pubDate>Wed, 24 Aug 2022 08:26:21 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demos.unfoldwp.com/blog-elite/</wp:base_site_url>
 	<wp:base_blog_url>https://demos.unfoldwp.com/blog-elite</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[unfoldwp@gmail.com]]></wp:author_login><wp:author_email><![CDATA[unfoldwp@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[unfoldwp@gmail.com]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[adam]]></wp:author_login><wp:author_email><![CDATA[adam@unfoldwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Adam]]></wp:author_display_name><wp:author_first_name><![CDATA[Adam]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[adam]]></wp:author_login><wp:author_email><![CDATA[adam@unfoldwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Ava Adam]]></wp:author_display_name><wp:author_first_name><![CDATA[Ava]]></wp:author_first_name><wp:author_last_name><![CDATA[Adam]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
