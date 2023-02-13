@@ -3,6 +3,7 @@
         "free": [
             {
                 "import_name": "first",
+                "import_path": "v1",
                 "preview_url": "https://demos.unfoldwp.com/blog-elite/v1",
                 "plugins": {
                     "mailchimp-for-wp": "MailChimp for WordPress"
@@ -10,6 +11,7 @@
             },
             {
                 "import_name": "second",
+                "import_path": "v2",
                 "preview_url": "https://demos.unfoldwp.com/blog-elite/v2",
                 "plugins": {
                     "mailchimp-for-wp": "MailChimp for WordPress"
@@ -17,6 +19,7 @@
             },
             {
                 "import_name": "third",
+                "import_path": "v3",
                 "preview_url": "https://demos.unfoldwp.com/blog-elite/v3",
                 "plugins": {
                     "mailchimp-for-wp": "MailChimp for WordPress",
@@ -27,10 +30,12 @@
         "pro": [
             {
                 "import_name": "Fourth",
+                "import_path": "v4",
                 "preview_url": "https://demos.unfoldwp.com/blog-elite/v4"
             },
             {
                 "import_name": "Fifth",
+                "import_path": "v5",
                 "preview_url": "https://demos.unfoldwp.com/blog-elite/v4"
             }
         ]
